@@ -16,8 +16,6 @@
 
 ### LinkedIn: [https://www.linkedin.com/in/adam-kenzo-isa-bezerra-a08158278/]
 
-### Site: [https://jogo-do-numero-magico-chi.vercel.app/]
-
 
 ## Certificados do curso: 
 
