@@ -1,4 +1,4 @@
-# aplicativo_adicionar_restaurante
+# sabor_express
 
 <img src="app_tela.png" alt="imagem do app" width="50%">
 
