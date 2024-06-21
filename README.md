@@ -23,7 +23,7 @@
 
 
 ## Créditos do footer-readme: [@ambosdev](https://github.com/ambosdev)
-![Imagem](./img/python_caldeira.png)
+![Imagem](python_caldeira.png)
 ###### Repositório criado para um dos projetos realizados através do programa sem fins lucrativos do [@Instituto Caldeira](https://www.instagram.com/institutocaldeira) na trilha de Python!
 ### Conteúdo didático disponibilizado no programa:
 - [x] Lógica de Programação com JavaScript
